@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("merge conflict from hot-fix");
         System.out.println("merge conflict from hot-fix 2");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
